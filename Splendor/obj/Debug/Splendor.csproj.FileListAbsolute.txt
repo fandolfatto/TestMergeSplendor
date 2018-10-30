@@ -1,0 +1,54 @@
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\bin\Debug\Splendor.exe.config
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\bin\Debug\Splendor.exe
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\bin\Debug\Splendor.pdb
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\obj\Debug\Splendor.csprojAssemblyReference.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\obj\Debug\Splendor.frmSplendor.resources
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\obj\Debug\Splendor.Properties.Resources.resources
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\obj\Debug\Splendor.csproj.GenerateResource.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\obj\Debug\Splendor.csproj.CoreCompileInputs.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\obj\Debug\Splendor.exe
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\obj\Debug\Splendor.pdb
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\bin\Debug\System.Data.SQLite.dll
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\bin\Debug\System.Data.SQLite.xml
+C:\Data\Cours\2018-2019\MA-24\Splendor\Splendor\obj\Debug\Splendor.csproj.CopyComplete
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\obj\Debug\Splendor.csprojAssemblyReference.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\obj\Debug\Splendor.frmSplendor.resources
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\obj\Debug\Splendor.Properties.Resources.resources
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\obj\Debug\Splendor.csproj.GenerateResource.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\obj\Debug\Splendor.csproj.CoreCompileInputs.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\obj\Debug\Splendor.exe
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\obj\Debug\Splendor.pdb
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\bin\Debug\Splendor.exe.config
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\bin\Debug\Splendor.exe
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\bin\Debug\Splendor.pdb
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\bin\Debug\System.Data.SQLite.dll
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\bin\Debug\System.Data.SQLite.xml
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves\Splendor\obj\Debug\Splendor.csproj.CopyComplete
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\bin\Debug\Splendor.exe.config
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\bin\Debug\Splendor.exe
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\bin\Debug\Splendor.pdb
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\obj\Debug\Splendor.csprojAssemblyReference.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\obj\Debug\Splendor.frmSplendor.resources
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\obj\Debug\Splendor.Properties.Resources.resources
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\obj\Debug\Splendor.csproj.GenerateResource.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\obj\Debug\Splendor.csproj.CoreCompileInputs.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\obj\Debug\Splendor.csproj.CopyComplete
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\obj\Debug\Splendor.exe
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\obj\Debug\Splendor.pdb
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\bin\Debug\System.Data.SQLite.xml
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\bin\Debug\System.Data.SQLite.dll.config
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves V1\Splendor\Splendor\bin\Debug\System.Data.SQLite.dll
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\bin\Debug\Splendor.exe.config
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\bin\Debug\Splendor.exe
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\bin\Debug\Splendor.pdb
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\bin\Debug\System.Data.SQLite.dll
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\bin\Debug\System.Data.SQLite.xml
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\bin\Debug\System.Data.SQLite.dll.config
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\obj\Debug\Splendor.csprojAssemblyReference.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\obj\Debug\Splendor.frmSplendor.resources
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\obj\Debug\Splendor.Properties.Resources.resources
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\obj\Debug\Splendor.csproj.GenerateResource.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\obj\Debug\Splendor.csproj.CoreCompileInputs.cache
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\obj\Debug\Splendor.csproj.CopyComplete
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\obj\Debug\Splendor.exe
+C:\Data\Cours\2018-2019\MA-24\Splendor pour les élèves semaine 2\Splendor\Splendor\obj\Debug\Splendor.pdb
