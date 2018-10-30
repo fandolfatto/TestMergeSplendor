@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SQLite;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,7 +16,16 @@ namespace Splendor
         private int prestigePt;
         private int level;
         //tableau : l'index correspond à l'énumération, la valeur à la ressource requise
-        private int[] cout = new int[4];
+        private int[] cost = new int[4];
+
+
+        public Card(int level, int prestigePt, int[] cost, int ress)
+        {
+            this.level = level;
+            this.prestigePt = prestigePt;
+            this.cost = cost;
+            this.ress = (Ressources)ress;
+        }
 
         /// <summary>
         /// the precious stone that the card gives
@@ -67,15 +77,15 @@ namespace Splendor
         /// <summary>
         /// all the precious stones that are needed to buy the card
         /// </summary>
-        public int[] Cout
+        public int[] Cost
         {
             get
             {
-                return cout;
+                return cost;
             }
             set
             {
-                cout = value;
+                cost = value;
             }
         }
 
@@ -86,7 +96,7 @@ namespace Splendor
         public override string ToString()
         {
             string res = "";
-            
+
             res = Enum.GetName(typeof(Ressources), Ress);
             //Be careful, those \t enables to split the string when clicking on a card
             res += "\t";
@@ -98,10 +108,10 @@ namespace Splendor
             res += "\t";
             res += "\r\n\r\n";
             int boucle = 0;
-            
-            foreach (int i in cout)
+
+            foreach (int i in cost)
             {
-                
+
                 string ressource = "";
 
                 if (i != 0)
@@ -110,16 +120,12 @@ namespace Splendor
                     ressource += Enum.GetName(typeof(Ressources), boucle) + " ";
                     ressource += i + "\r\n";
                 }
-                
+
                 res += ressource;
                 boucle++;
 
             }
             return res;
         }
-
-
-
-
     }
 }
