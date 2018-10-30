@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SQLite;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,73 +12,21 @@ namespace Splendor
     /// </summary>
     class Card
     {
-        private Ressources ress;
-        private int prestigePt;
-        private int level;
-        //tableau : l'index correspond à l'énumération, la valeur à la ressource requise
-        private int[] cout = new int[4];
+        public Ressources ress { get; set; }
+        public int prestigePt { get; set; }
+		public int level { get; set; }
 
-        /// <summary>
-        /// the precious stone that the card gives
-        /// </summary>
-        public Ressources Ress
+		//tableau : l'index correspond à l'énumération, la valeur à la ressource requise
+		public int[] cost { get; set; } = new int[4];
+
+
+        public Card(int level, int prestigePt, int[] cost, int ress)
         {
-            get
-            {
-                return ress;
-            }
-            set
-            {
-                ress = value;
-            }
-
-        }
-
-        /// <summary>
-        /// number of prestige point of the card
-        /// </summary>
-        public int PrestigePt
-        {
-            get
-            {
-                return prestigePt;
-            }
-            set
-            {
-                prestigePt = value;
-            }
-
-        }
-
-        /// <summary>
-        /// level of the card : 1, 2 or 3
-        /// </summary>
-        public int Level
-        {
-            get
-            {
-                return level;
-            }
-            set
-            {
-                level = value;
-            }
-        }
-
-        /// <summary>
-        /// all the precious stones that are needed to buy the card
-        /// </summary>
-        public int[] Cout
-        {
-            get
-            {
-                return cout;
-            }
-            set
-            {
-                cout = value;
-            }
-        }
+            this.level = level;
+            this.prestigePt = prestigePt;
+            this.cost = cost;
+            this.ress = (Ressources)ress;
+        }        
 
         /// <summary>
         /// displays information about the card
@@ -86,8 +35,8 @@ namespace Splendor
         public override string ToString()
         {
             string res = "";
-            
-            res = Enum.GetName(typeof(Ressources), Ress);
+
+            res = Enum.GetName(typeof(Ressources), ress);
             //Be careful, those \t enables to split the string when clicking on a card
             res += "\t";
 
@@ -98,10 +47,10 @@ namespace Splendor
             res += "\t";
             res += "\r\n\r\n";
             int boucle = 0;
-            
-            foreach (int i in cout)
+
+            foreach (int i in cost)
             {
-                
+
                 string ressource = "";
 
                 if (i != 0)
@@ -110,16 +59,12 @@ namespace Splendor
                     ressource += Enum.GetName(typeof(Ressources), boucle) + " ";
                     ressource += i + "\r\n";
                 }
-                
+
                 res += ressource;
                 boucle++;
 
             }
             return res;
         }
-
-
-
-
     }
 }

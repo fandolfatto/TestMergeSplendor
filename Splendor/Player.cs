@@ -12,71 +12,22 @@ namespace Splendor
     /// </summary>
     class Player
     {
-        private string name;
-        private int id;
-        private int[] ressources;
-        private int[] coins;
+        public string name { get; set; }
+        public int id { get; set; }
+        public int[] ressources { get; set; }
+        public int[] coins { get; set; }
 
-        /// <summary>
-        /// name of the player
-        /// </summary>
-        public string Name
-        {
-            get
-            {
-                return name;
-            }
-            set
-            {
-                name = value;
-            }
-        }
+		public Player(int id, string name, int[] ressources = null)
+		{
+			this.id = id;
+			this.name = name;
 
-        /// <summary>
-        /// all the precious stones he has
-        /// </summary>
-        public int[] Ressources
-        {
-            get
-            {
-                return ressources;
-            }
-            set
-            {
-                ressources = value;
-            }
-        }
+			if (ressources == null)
+			{
+				ressources = new int[] { 0, 0, 0, 0, 0 };
+			}
 
-        /// <summary>
-        /// all the coins he has
-        /// </summary>
-        public int[] Coins
-        {
-            get
-            {
-                return coins;
-            }
-            set
-            {
-                coins = value;
-            }
-        }
-
-        /// <summary>
-        /// id of the player
-        /// </summary>
-        public int Id
-        {
-            get
-            {
-                return id;
-            }
-            set
-            {
-                id = value;
-            }
-        }
-
-
+			this.ressources = ressources;
+		}  	
     }
 }
