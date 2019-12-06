@@ -89,8 +89,6 @@ namespace Splendor
             Stack<Card> listCardOne = conn.GetListCardAccordingToLevel(1);
             //Go through the results
             //Don't forget to check when you are at the end of the stack
-            
-            //fin TO DO
 
             this.Width = 680;
             this.Height = 540;
